@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { useParams } from "react-router-dom";
 import { toggleTheme } from "../context/ContextTheme";
-import "../app.css";
+import "../App.css";
 
 export function DynaimcData() {
   const param = useParams();
