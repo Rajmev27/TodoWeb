@@ -1,6 +1,6 @@
 import { useContext, useEffect } from "react";
 import { Navbar } from "../components/Navbar";
-import "./AllTodos.css";
+import "./allTodos.css";
 import { useState } from "react";
 import { toggleTheme } from "../context/ContextTheme";
 // const dummyData = [
