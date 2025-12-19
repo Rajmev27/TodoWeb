@@ -1,0 +1,21 @@
+.text {
+  font-weight: 400;
+  font-size: 25px;
+  color: white;
+}
+.about-body{
+  min-height: 100vh;
+  padding: 40px 0px;
+  background-color: #333;
+}
+.p-container {
+  margin: auto;
+  width: 80%;
+}
+
+.body-light {
+  background-color: white;
+  min-height: 100vh;
+  padding: 40px 0px;
+
+}
